@@ -1,6 +1,6 @@
 {
   "name": "@da-tools/da-parser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Parser between Y.Doc and AEM representation used in DA",
   "main": "lib/index.js",
   "type": "module",
